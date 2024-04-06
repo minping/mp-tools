@@ -80,6 +80,19 @@
             <artifactId>aspose-words</artifactId>
             <version>23.1</version>
         </dependency>
+
+        <!--        JWTUtil所需依赖-->
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt</artifactId>
+            <version>0.9.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.auth0</groupId>
+            <artifactId>java-jwt</artifactId>
+            <version>3.11.0</version>
+        </dependency>
+
     </dependencies>
 
 </project>
